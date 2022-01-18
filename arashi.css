@@ -1,0 +1,20 @@
+.sectionone {
+	color: red;
+	text-align: center;
+}
+body {
+	background-color: black;  
+}
+#link {
+	position: fixed;
+	bottom: 10px;
+	font-size: 50px;
+}
+#vivalbania {
+	color: white;
+	text-align: center;
+}
+#polonia {
+	float: right;
+	font-size: 200px;
+}
