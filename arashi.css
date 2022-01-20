@@ -20,3 +20,11 @@ body {
 #sgarbi {
 	float: right;
 }
+#menu {
+	background: #000;
+	height: 52 px;
+	widht: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
